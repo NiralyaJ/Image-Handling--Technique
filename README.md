@@ -264,7 +264,8 @@ plt.axis("off")
   <img width="1280" height="356" alt="Screenshot 2026-04-27 104033" src="https://github.com/user-attachments/assets/133765af-5b8d-4bdd-b59a-ffa5a4a9aa38" />
 
 - **iii)** Modify Image Contrast.  
-  <img width="1250" height="243" alt="Screenshot 2026-04-27 104101" src="https://github.com/user-attachments/assets/59d20594-f88b-492f-ad6f-4a328e63d3a7" />
+  <img width="1300" height="335" alt="Screenshot 2026-04-27 105248" src="https://github.com/user-attachments/assets/9d2f0457-6b5d-4fe8-98ca-225999f31bff" />
+
 
 
 
